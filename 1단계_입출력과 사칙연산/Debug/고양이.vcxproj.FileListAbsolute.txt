@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\민지\백준\고양이\Debug\고양이.exe
+C:\Users\admin\Desktop\민지\백준\고양이\Debug\고양이.pdb
+C:\Users\admin\Desktop\민지\백준\1단계_입출력과 사칙연산\Debug\1단계.exe
+C:\Users\admin\Desktop\민지\백준\1단계_입출력과 사칙연산\Debug\1단계.pdb

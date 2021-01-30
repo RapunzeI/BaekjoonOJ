@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\민지\백준\2단계_If문\x64\Debug\2단계_If문.exe
+C:\Users\admin\Desktop\민지\백준\2단계_If문\x64\Debug\2단계_If문.pdb

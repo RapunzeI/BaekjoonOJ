@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\민지\백준\3단계_for문\Debug\3단계_for문.exe
+C:\Users\admin\Desktop\민지\백준\3단계_for문\Debug\3단계_for문.pdb
