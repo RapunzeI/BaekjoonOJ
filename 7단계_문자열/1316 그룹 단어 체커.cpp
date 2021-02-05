@@ -4,7 +4,7 @@
 int main()
 {
 	char word[101] = { NULL }, alphabet[26];
-	int N, cnt = 0, strl, checker = 0;;
+	int N, cnt = 0, strl, checker = 0;
 
 	scanf_s("%d", &N);
 
@@ -21,20 +21,14 @@ int main()
 		strl = strlen(word);
 		for (int k = 0; k < strl; k++)
 		{
-			if (alphabet[word[k]] == NULL)
+			if (alphabet[word[k] - 'a'] == NULL)
 			{
 				checker = -1;
 				break;
 			}
 			else if (word[k] != word[k + 1] && word[k + 1] != NULL)
 			{
-				alphabet[word[k]] = NULL;
-				continue;
-			}
-			else if (word[k + 1] == NULL && alphabet[word[k]] == NULL)
-			{
-				checker = -1;
-				break;
+				alphabet[word[k] - 'a'] = NULL;
 			}
 		}
 
