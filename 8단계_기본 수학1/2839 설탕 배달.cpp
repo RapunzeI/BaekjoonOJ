@@ -2,18 +2,21 @@
 using namespace std;
 
 int main() {
-	int N, remain;
-	cout << N;
+	int N, cnt = 0, five, three, limit;
+	cin >> N;
+	limit = N / 5;
 
-	int i = N / 5;
-	remain = N % 5;
-	while (1) {
-
-		if (remain % 3 != 0) {
-			i--;
-		}
-		else {
+	for (int i = limit; i >= 0; i--) {
+		if ((N - 5 * i) % 3 == 0) {
+			five = i;
+			three = (N - five * i) / 3;
+			cnt = five + three;
 			break;
 		}
+		else {
+			i--;
+			cnt = -1;
+		}
 	}
+	cout << cnt;
 }

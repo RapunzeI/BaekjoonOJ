@@ -1,2 +1,0 @@
-C:\Users\admin\Desktop\민지\백준\4단계_while문\Debug\4단계_while문.exe
-C:\Users\admin\Desktop\민지\백준\4단계_while문\Debug\4단계_while문.pdb

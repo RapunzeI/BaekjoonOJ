@@ -1,2 +1,0 @@
-C:\Users\admin\Desktop\민지\백준\5단계_실습\Debug\5단계_실습.exe
-C:\Users\admin\Desktop\민지\백준\5단계_실습\Debug\5단계_실습.pdb

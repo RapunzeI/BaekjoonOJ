@@ -1,2 +1,0 @@
-C:\Users\admin\Desktop\민지\백준\7단계_문자열\Debug\7단계_문자열.exe
-C:\Users\admin\Desktop\민지\백준\7단계_문자열\Debug\7단계_문자열.pdb

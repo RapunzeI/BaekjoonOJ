@@ -1,2 +1,0 @@
-C:\Users\admin\Desktop\민지\백준\6단계_함수\Debug\6단계_함수.exe
-C:\Users\admin\Desktop\민지\백준\6단계_함수\Debug\6단계_함수.pdb
